@@ -1,0 +1,16 @@
+.main {
+    margin:auto;
+    margin-top:10px;
+    background-color:#cfc;
+    
+    width:50vw;
+}
+
+#title {
+    padding-left:0;
+    margin-top:0;
+    font-size: 30px;
+    font-family: "Consolas Bold", monospace;
+    letter-spacing: 3px;
+    text-align: center;
+}
